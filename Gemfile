@@ -30,6 +30,10 @@ gem 'paperclip'
 
 gem 'formtastic'
 
+# add haml for ease of life
+
+gem 'haml'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
