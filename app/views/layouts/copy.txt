@@ -1,0 +1,40 @@
+Devan's Portolio
+Projects | Skills | Timeline | Contact
+
+WARNING: This porfolio has a Salt-O-Meter level of Dead Sea. Proceed with ?.
+
+1. I am told it is trendy to have a fancy portfolio with a nice photo and parallax scrolling. Please pardon my humble Rails App.
+
+4. My name is Devan Kestel. I recently graduated from *The Iron Yard* in **Orlando, FL**. Before that, I was busy studying how paint dries for a living (*no, really*) and in my spare time I was hopped up on *CodeSchool*, *Codecademy*, and **General Assembly's Dash**. If you want to know about me and code in **The Early Days**, check out my *Timeline*. 
+
+2. Peanuts Picture
+
+3. This is what I would look like if I was a Peanuts cartoon character. (Actually this IS pretty close to what I look like IRL.)
+
+5. If you don't care what projects I've done and are simply looking for my contact info, my real e-mail is:
+  devan.kestel@gmail.com
+
+7. And my fake phone number (goes to Google Voicemail box) is: 
+  XXX.XXX.XXXX
+
+6. And if you're curious about my social media, here are some links: 
+
+Bird | Octocat | Blue Box with White "in" | Blue Box with White "t"
+
+? You can find my Codeschool and Codecademy profiles here:
+
+Angle Brackets | "c" in Navy Box with Underscore on Right
+
+Projects
+
+Some highlights of work I have done. The lowlights can be seen on *Github*, just look for the commits with salty descriptions.
+
+Ermahgerd Berlberser | Meta | Pop Punked Up 
+
+Ermahgerd Berlberser
+
+The app that translates your original Pokedex into the most important memetastic languages of our time. Become fluent in Pirate, Fudd, Swedish Chef, and Ermahgerd by perusing descriptions of yer fravrit Perkermahn.
+
+Meta
+
+You're lookin at it. This portfolio is a full-on CRUD app with admin built with Devise and interactivity provided by AngularJS. Take a behind the scenes tour of the admin system, if you fancy a gander at this portfolio's guts. 

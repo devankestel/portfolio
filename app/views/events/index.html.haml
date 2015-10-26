@@ -1,11 +1,17 @@
-%table
-  %th
-    %td
-      Name
-    %td
-      Category
-    %td
-      Start Year
-    %td
-      End Year 
-  = render partial: 'event', collection: @events
+%div{"ng-controller"=>"EventCtrl"}
+  %form{"ng-submit"=>"create()"}
+    %label{"for"=>"title"}
+    %input{"type"=>"text", "name"=>"title", "id"=>"title", "ng-model"=>"newEvent.title"}
+    %p
+      {{newEvent.title}}
+    %label{"for"=>"description"}
+    %textarea{"name"=>"description", "id"=>"description", "ng-model"=>"newEvent.description"}
+    %p
+      {{newEvent.description}}
+    %input{"type"=>"submit"}
+
+  %li{"ng-repeat"=>"event in events"}
+    %h2
+      {{event.title}}
+    %p
+      {{event.description}}
